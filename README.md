@@ -1,1 +1,2 @@
 # PRODIGY_WD_03
+This project is a tic-tac-toe web application built using HTML, CSS, and JavaScript. The application allows users to play the classic game of tic-tac-toe either against each other or against an AI opponent. By implementing functions to handle user clicks, track game state, and check for winning conditions, the game provides an interactive and engaging experience. This project showcases how to create a fun and functional web-based game using core web technologies.
